@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://psykopattestet.se/sitemap.xml
